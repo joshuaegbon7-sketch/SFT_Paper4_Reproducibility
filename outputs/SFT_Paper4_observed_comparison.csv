@@ -1,0 +1,10 @@
+Particle,m_SFT_MeV,Observed_MeV,Absolute_Error_MeV,Percent_Error,Comment
+e,0.50544,0.51099895,-0.005559,-1.0878,
+mu,109.17513,105.6583755,3.516754,3.3284,
+tau,1746.802072,1776.86,-30.057928,-1.6916,
+u,2.274482,2.16,0.114482,5.3001,running mass; scale-dependent
+d,4.548964,4.67,-0.121036,-2.5918,running mass; scale-dependent
+s,109.17513,93.4,15.77513,16.8899,running mass; scale-dependent
+c,1310.101554,1270.0,40.101554,3.1576,running mass; scale-dependent
+b,3930.304663,4180.0,-249.695337,-5.9736,running mass; scale-dependent
+t,179074.506207,172570.0,6504.506207,3.7692,running mass; scale-dependent

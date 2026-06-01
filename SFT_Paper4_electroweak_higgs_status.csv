@@ -1,4 +1,0 @@
-Particle,m_SFT_GeV,Observed_GeV,Status,Absolute_Error_GeV,Percent_Error
-W,,80.377,not computed: explicit SFT W formula not provided in latest draft,,
-Z,,91.1876,not computed: explicit SFT Z formula not provided in latest draft,,
-H,123.8,125.2,reported candidate; scalar closure correction not fully derived,-1.4000000000000057,-1.1182108626198128

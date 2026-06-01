@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated SFT Paper 4 manuscript."
+title: "SFT Paper 4 Reproducibility Package"
+authors:
+  - family-names: "Egbon"
+    given-names: "Joshua"
+year: 2026
+repository-code: "https://github.com/YOUR-USERNAME/SFT_Paper4_Reproducibility"
+license: "MIT"
+keywords:
+  - "Spacefield Transformation"
+  - "SFT"
+  - "particle masses"
+  - "spectral geometry"
+  - "reproducibility"

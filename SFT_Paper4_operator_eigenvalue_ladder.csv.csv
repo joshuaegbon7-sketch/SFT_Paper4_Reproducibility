@@ -1,6 +1,0 @@
-Sector,n,Lambda_tilde,Degeneracy,Interpretation
-Scalar,1,3,4,Low-order scalar sector
-Vector,1,2,6,Low-order vector sector
-Vector,2,7,16,Higher vector sector
-Vector,3,14,30,Higher localized vector sector
-Scalar,4,24,25,Higher localized scalar sector
